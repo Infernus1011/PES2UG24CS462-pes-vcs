@@ -1,0 +1,14 @@
+# Compiled binaries
+pes
+test_objects
+test_tree
+
+# Object files
+*.o
+
+# PES repository
+.pes/
+
+# Editor files
+*.swp
+*~
